@@ -1,0 +1,8 @@
+Edit Makefile:
+- Add lines to set new global variables, like "hello := world".
+- Update new FAST version number (major, minor, patch)
+
+Use Makefile:
+- Run "make build_all" to build all three applications
+- Run "make run_cp{1,2,3}" to run each of the applications cp{1,2,3} individually
+
